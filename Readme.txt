@@ -70,3 +70,6 @@ Task :- 6
 3. Set up the database and configure the connection settings.
 4. Run the server application to start serving the web application.
 5. Access the web application through our preferred web browser.
+
+Task:- 7
+	
