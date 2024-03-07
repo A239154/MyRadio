@@ -95,3 +95,10 @@ Date :- 2024-03-07
 Time :- 1147
 Harish :- 
 	Continue Aunthication page
+
+Task :- 10
+
+Date :- 2024-03-07
+Time :- 1149
+Harish :-
+	Update register page
