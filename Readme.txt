@@ -72,4 +72,10 @@ Task :- 6
 5. Access the web application through our preferred web browser.
 
 Task:- 7
-	
+
+Date :- 2024-03-06
+Time :- 1201
+Shakti :- 
+	I cerate the product button in the home menue to show product.
+	And linked with the database.
+	After completing this step I saved the file and run this program to check project working or not.
