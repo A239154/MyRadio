@@ -88,3 +88,10 @@ Date :- 2024-03-07
 Time :- 1133
 Shaktisinh :- 
 	I creadted a login and register page according to guide.
+
+Task :- 9 
+
+Date :- 2024-03-07
+Time :- 1147
+Harish :- 
+	Continue Aunthication page
