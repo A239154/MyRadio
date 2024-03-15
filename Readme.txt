@@ -102,3 +102,7 @@ Date :- 2024-03-07
 Time :- 1149
 Haris :-
 	Update register page
+Task :- 11
+date:- 2024-03-15
+time:-0455
+	we deployed the website on azure. but its not working
