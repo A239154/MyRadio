@@ -93,12 +93,16 @@ Task :- 9
 
 Date :- 2024-03-07
 Time :- 1147
-Harish :- 
+Haris :- 
 	Continue Aunthication page
 
 Task :- 10
 
 Date :- 2024-03-07
 Time :- 1149
-Harish :-
+Haris :-
 	Update register page
+Task :- 11
+date:- 2024-03-15
+time:-0455
+	we deployed the website on azure. but its not working
